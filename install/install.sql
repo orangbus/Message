@@ -7,11 +7,11 @@ CREATE TABLE `dedeyun_config` (
 
 INSERT INTO `dedeyun_config` VALUES ('admin_user', 'admin');</explode>
 INSERT INTO `dedeyun_config` VALUES ('admin_pwd', '123456');</explode>
-INSERT INTO `dedeyun_config` VALUES ('zzqq', '1482222908');</explode>
+INSERT INTO `dedeyun_config` VALUES ('zzqq', '511300462');</explode>
 INSERT INTO `dedeyun_config` VALUES ('title', '在线短信轰炸-By小兔 ');</explode>
 INSERT INTO `dedeyun_config` VALUES ('keywords', '短信轰炸,轰炸,炸骗子');</explode>
 INSERT INTO `dedeyun_config` VALUES ('description', '本站是一个免费短信轰炸网站');</explode>
-INSERT INTO `dedeyun_config` VALUES ('gonggao', '<div class="alert alert-info" role="alert"><span class="glyphicon glyphicon-info-sign"></span> <strong>提示</strong>:输入手机号码点击轰炸按钮即可。</div><div class="alert alert-warning" role="alert"> <i class="glyphicon glyphicon-bullhorn"></i> <strong>公告</strong>:不可用于非法活动本站不承担责任。</div><div class="alert alert-danger" role="alert"> <i class="glyphicon glyphicon-bullhorn"></i> <strong>公告</strong>:官方交流群<a href="http://www.qqsuu.cn/jq.php" class="alert-link">1482222908</a> 欢迎站长加入。</div>');</explode>
+INSERT INTO `dedeyun_config` VALUES ('gonggao', '<div class="alert alert-info" role="alert"><span class="glyphicon glyphicon-info-sign"></span> <strong>提示</strong>:输入手机号码点击轰炸按钮即可。</div><div class="alert alert-warning" role="alert"> <i class="glyphicon glyphicon-bullhorn"></i> <strong>公告</strong>:不可用于非法活动本站不承担责任。</div><div class="alert alert-danger" role="alert"> <i class="glyphicon glyphicon-bullhorn"></i> <strong>公告</strong>交流群:<a href="https://jq.qq.com/?_wv=1027&k=8Duafusp" class="alert-link">511300462</a> 欢迎站长加入。</div>');</explode>
 
 
 DROP TABLE IF EXISTS `dedeyun_kms`;</explode>
